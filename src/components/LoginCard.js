@@ -6,7 +6,7 @@ import Logo from '../images/Logo.jpg'
 import { Stack }  from 'react-bootstrap';
 import { Button } from 'react-bootstrap';
 import { Card } from 'react-bootstrap';
-import HomePage from './HomePage';
+
 
 const LoginCard = () => {
   return (
