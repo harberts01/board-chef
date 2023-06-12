@@ -1,0 +1,21 @@
+This app is a Recipe app that will allow users to log into an account and upload or input recipes.
+
+
+First page upon loading is the log in page.
+    -This page will consist of a Title Logo, a Log In, and Sign Up button. 
+    -The log in and sign up buttons will be bootstrap style primary buttons.
+    -The Logo is inported from figma.
+    -Background for the log in page will be a cook board with food.
+
+Log In On-Click 
+    -This will reveal a Username and Password field to allow a user to input their log in information
+    -Log in button under the form to submit the inputed values
+    -Once Log in is successful user's profile will load to the home page.
+
+Sign Up On-Click
+    -This will reveal a sign up page where a user will input, first & last name, email, and password with a confirm password.
+    -Upon successful sign up user will be directed to the home page.
+
+Homepage 
+    -Explore with Feed
+    
